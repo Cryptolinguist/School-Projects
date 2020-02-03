@@ -1,1 +1,1 @@
-This folder will specifically hold projects related to my Web Development Foundations course at WGU
+This repository contains a basic website to use as a reference point for using HTML.
